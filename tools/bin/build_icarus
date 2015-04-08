@@ -1,0 +1,11 @@
+#!/bin/bash
+
+if [ -z "$S1_ROOT" ]; then echo "***ERROR***: S1_ROOT variable is undefined, please set it and run 'source sourceme'."; exit 1; fi
+if ! [ -d "$S1_ROOT" ]; then echo "***ERROR***: directory '$S1_ROOT' does not exist, please check it and run 'source sourceme' again."; exit 1; fi
+
+echo "Building testbench using Icarus simulator..."
+cd $S1_ROOT/run/sim/icarus
+rm -rf *
+iverilog -o testbench -c$FILELIST_ICARUS
+echo -e "Done!"
+

@@ -1,0 +1,8 @@
+#!/bin/bash
+
+if [ -z "$S1_ROOT" ]; then echo "***ERROR***: S1_ROOT variable is undefined, please set it and run 'source sourceme'."; exit 1; fi
+if ! [ -d "$S1_ROOT" ]; then echo "***ERROR***: directory '$S1_ROOT' does not exist, please check it and run 'source sourceme' again."; exit 1; fi
+
+cd $S1_ROOT/run/synth/fpga
+iverilog -g1 -t xnf -o fpga.edif -c$FILELIST_FPGA 2>&1 | tee synth.log
+

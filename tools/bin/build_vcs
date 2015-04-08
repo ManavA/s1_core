@@ -1,0 +1,11 @@
+#!/bin/bash
+
+if [ -z "$S1_ROOT" ]; then echo "***ERROR***: S1_ROOT variable is undefined, please set it and run 'source sourceme'."; exit 1; fi
+if ! [ -d "$S1_ROOT" ]; then echo "***ERROR***: directory '$S1_ROOT' does not exist, please check it and run 'source sourceme' again."; exit 1; fi
+
+cd $S1_ROOT/run/sim/vcs
+rm -rf *
+vcs +cli -line -timescale=1ns/100ps -f $FILELIST_VCS
+mv -f simv testbench
+mv -f simv.daidir testbench.daidir
+

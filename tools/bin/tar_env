@@ -1,0 +1,17 @@
+#!/bin/bash
+
+# This script makes a tarball of the S1 environment:
+# you should call "clean_env" before calling this,
+# otherwise you will get a huge file.
+
+if [ -z "$S1_ROOT" ]; then echo "***ERROR***: S1_ROOT variable is undefined, please set it and run 'source sourceme'."; exit 1; fi
+if ! [ -d "$S1_ROOT" ]; then echo "***ERROR***: directory '$S1_ROOT' does not exist, please check it and run 'source sourceme' again."; exit 1; fi
+
+TARBALL=$HOME/simplyrisc-s1.tar
+
+rm -f $TARBALL* $S1_ROOT/*.tar*
+cd $S1_ROOT/..
+tar cvf $TARBALL `basename $S1_ROOT`
+gzip $TARBALL
+mv -f $TARBALL.gz $S1_ROOT
+

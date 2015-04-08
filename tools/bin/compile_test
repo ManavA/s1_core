@@ -1,0 +1,46 @@
+#!/bin/bash
+#
+# Compile a test for the S1 Core and build the files
+# rom_harness.hex and ram_harness.hex.
+#
+# Parameter is test name without extension (e.g. to compile
+# $S1_ROOT/tests/hello.c) just run "compile_test hello".
+#
+# Note: requires sparc64-linux-gcc (see Download section on
+# http://www.srisc.com).
+
+if [ -z "$S1_ROOT" ]; then echo "***ERROR***: S1_ROOT variable is undefined, please set it and run 'source sourceme'."; exit 1; fi
+if ! [ -d "$S1_ROOT" ]; then echo "***ERROR***: directory '$S1_ROOT' does not exist, please check it and run 'source sourceme' again."; exit 1; fi
+
+# Prepare the environment
+cd $S1_ROOT/tests
+rm -f *.o *~ *.bin *.dump *.hex     # Make clean
+if ( test $# != 1 ) then
+  echo "compile_test - Script to compile a test for the S1 Core";
+  echo "(C) 2006 by Simply RISC";
+  echo "Usage:";
+  echo "      compile_test <TEST_NAME>";
+  echo "where parameter is the test name without extension (e.g. 'hello').";
+  exit 1;
+fi
+if ( ! test -e $1.c ) then
+  echo "ERROR: Test $1.c does not exist into the tests directory!";
+  exit 1;
+fi
+
+# Compile the dumper
+gcc -o $S1_ROOT/tools/bin/dump2hex.bin $S1_ROOT/tools/src/dump2hex.c
+
+# Compile the boot code
+sparc64-linux-as -ah -am -o boot/boot.bin boot/boot.s
+sparc64-linux-objdump -d -EB -w -z boot/boot.bin > boot/boot.dump
+grep "  " boot/boot.dump | egrep -v "file format" | dump2hex.bin > boot/rom_harness.hex
+
+# Compile the C test
+sparc64-linux-gcc -c -O0 $1.c
+sparc64-linux-ld -Ur --script=$S1_ROOT/tools/src/linker.map -EB -o $1.bin $1.o
+sparc64-linux-objdump -d -EB -w -z $1.bin > $1.dump
+grep "  " $1.dump | egrep -v "file format" | dump2hex.bin > ram_harness.hex
+
+#rm -f *.o *~ *.bin *.dump           # Make clean
+

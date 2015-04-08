@@ -1,0 +1,3030 @@
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type Unknown
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 00000000000000000000000000010001
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 1
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 3
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is fff0000020
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 1
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 0300000005000100821060008410a0c0
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 1
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 1
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is fff0000024
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 1
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 0300000005000100821060008410a0c0
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 1
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 1
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is fff0000028
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 1
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 0300000005000100821060008410a0c0
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 1
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 2
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is fff000002c
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 1
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 0300000005000100821060008410a0c0
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 1
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 2
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is fff0000030
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 1
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 832870208410800181c0800001000000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 1
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 1
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is fff0000034
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 1
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 832870208410800181c0800001000000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 1
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 3
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is fff0000038
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 1
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 832870208410800181c0800001000000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 1
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 0
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is fff000003c
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 1
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 832870208410800181c0800001000000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 1
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 1
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 00000400c0
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is b5802005a2102000821020a983287020
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is e2706000e2706040e2706080e27060c0
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 1
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 2
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 00000400c0
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is b5802005a2102000821020a983287020
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is e2706000e2706040e2706080e27060c0
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 1
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 0
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 00000400c0
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is b5802005a2102000821020a983287020
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is e2706000e2706040e2706080e27060c0
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 1
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 1
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 00000400c0
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is b5802005a2102000821020a983287020
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is e2706000e2706040e2706080e27060c0
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 1
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 0
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 00000400c0
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is b5802005a2102000821020a983287020
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is e2706000e2706040e2706080e27060c0
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 1
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 0
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 00000400c0
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is b5802005a2102000821020a983287020
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is e2706000e2706040e2706080e27060c0
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 1
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 2
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 00000400c0
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type STORE_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 0
+INFO: SPC2WBM: Request size is 8 Bytes
+INFO: SPC2WBM: Address is a900000000
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type ST_ACK
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 00000000000000000000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is b5802005a2102000821020a983287020
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is e2706000e2706040e2706080e27060c0
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 1
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 0
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 00000400c0
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type STORE_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 0
+INFO: SPC2WBM: Request size is 8 Bytes
+INFO: SPC2WBM: Address is a900000040
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type ST_ACK
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 00010000000000000000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is b5802005a2102000821020a983287020
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is e2706000e2706040e2706080e27060c0
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 1
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 3
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 00000400c0
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type STORE_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 0
+INFO: SPC2WBM: Request size is 8 Bytes
+INFO: SPC2WBM: Address is a900000080
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type ST_ACK
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 00020000000000000000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is b5802005a2102000821020a983287020
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is e2706000e2706040e2706080e27060c0
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 1
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 0
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 00000400e0
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type STORE_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 0
+INFO: SPC2WBM: Request size is 8 Bytes
+INFO: SPC2WBM: Address is a9000000c0
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is a210200082102010e2f04840a2102003
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is e2f008a0a3480000819c682087802025
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type ST_ACK
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 00030000000000000000000000000000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 1
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 3
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 00000400e0
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is a210200082102010e2f04840a2102003
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is e2f008a0a3480000819c682087802025
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 1
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 2
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 00000400e0
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is a210200082102010e2f04840a2102003
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is e2f008a0a3480000819c682087802025
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 1
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 3
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 00000400e0
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is a210200082102010e2f04840a2102003
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is e2f008a0a3480000819c682087802025
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 1
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 1
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 00000400e0
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is a210200082102010e2f04840a2102003
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is e2f008a0a3480000819c682087802025
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 1
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 3
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 00000400e0
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is a210200082102010e2f04840a2102003
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is e2f008a0a3480000819c682087802025
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 1
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 2
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 00000400e0
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is a210200082102010e2f04840a2102003
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is e2f008a0a3480000819c682087802025
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 1
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 1
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 00000400e0
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is a210200082102010e2f04840a2102003
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is e2f008a0a3480000819c682087802025
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 1
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 1
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 00000400e0
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is a210200082102010e2f04840a2102003
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is e2f008a0a3480000819c682087802025
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 1
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 0
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 00000400e0
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is a210200082102010e2f04840a2102003
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is e2f008a0a3480000819c682087802025
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 2
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 00000400e0
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is a210200082102010e2f04840a2102003
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is e2f008a0a3480000819c682087802025
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 2
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 0000040100
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is c0f023c0c0f023c8c0f023d0c0f023d8
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is c0f023e0c0f023e8c0f023f0c0f023f8
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 3
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 0000040120
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 8f902000a19020008d80200085802000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 87802000841020008990800084102000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 3
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 0000040140
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is b1808000841020018528b03faf808000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is b3808000bf988000818000009190200f
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 3
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 0000040160
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 9390200095902006979020009b902000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 999020079d90200782102018c0f00a01
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 1
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 0000040180
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is c0f00b01a2102003e2f00960a2102003
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 821020aa83287020e2706000e2706040
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 1
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 00000401a0
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type STORE_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 0
+INFO: SPC2WBM: Request size is 8 Bytes
+INFO: SPC2WBM: Address is aa00000000
+INFO: SPC2WBM: Data is 0000000000000003
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is e2706080e27060c0a346800003000007
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 82106300a20c4001a334700803000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type ST_ACK
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 00000000000000000000000000000000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 2
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 00000401c0
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type STORE_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 0
+INFO: SPC2WBM: Request size is 8 Bytes
+INFO: SPC2WBM: Address is aa00000040
+INFO: SPC2WBM: Data is 0000000000000003
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type ST_ACK
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 00010000000000000000000000000000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type STORE_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 0
+INFO: SPC2WBM: Request size is 8 Bytes
+INFO: SPC2WBM: Address is aa00000080
+INFO: SPC2WBM: Data is 0000000000000003
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type ST_ACK
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 00020000000000000000000000000000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type STORE_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 0
+INFO: SPC2WBM: Request size is 8 Bytes
+INFO: SPC2WBM: Address is aa000000c0
+INFO: SPC2WBM: Data is 0000000000000003
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 05000130821060008410a00083287020
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 84108001a32c7003c458801182102080
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type ST_ACK
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 00030000000000000000000000000000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 2
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 00000401e0
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type LOAD_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 3
+INFO: SPC2WBM: Request size is 8 Bytes
+INFO: SPC2WBM: Address is 000004c000
+INFO: SPC2WBM: Data is 000000000004c000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is c4f04b002f0002008b9dc00021000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 03000130a014200082106140a12c3020
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type LOAD_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 00000000000000000000000000000000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 1
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 0000040200
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 821040108528b00782004002e2584000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is e2f006e0e2586008e2f007e0e2586010
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type LOAD_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 00000000000000000000000000000000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 3
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 0000040220
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is e2f006a0e2586020e2f006c0e2586018
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is e2f007a0e2586028e2f007c0e2586040
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type LOAD_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 00000000010000010000000002000001
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type LOAD_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 00000000030000010000000004000001
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 0
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 0000040240
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is e2f00660e2586048e2f00760e2586050
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is e2f00620e2586060e2f00640e2586058
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type LOAD_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 00000000000000000000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type LOAD_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 00000000050000010000000006000001
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type LOAD_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 00000000070000010000000008000001
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 1
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 0000040260
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is e2f00720e2586068e2f0074094102080
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is c0f28ae0c0f28be0a2102008c0f44420
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 2
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 0000040280
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is a2102010c0f44420a210200fe2f008a0
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 0300000005000510821060008410a000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 0
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 00000402a0
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 8328702084108001874800008f902001
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 88102000839900008f90200090102000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 1
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 00000402c0
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 81c08000819828000100000001000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 8210200fc2f008a0c0f0086083480000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 0
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 0000080c80
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 8e102030c4d9ca00c2d80a20c8984480
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 80a0800412680d030100000010800d41
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type LOAD_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 00000000001440008000000000144540
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 2
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 0000080ca0
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 82102080306800170100000001000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 01000000010000000100000001000000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 0
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 00000841a0
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 841000058528b0188530b03f0ac8800c
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 0100000007000000050001308610e000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 3
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 00000841c0
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 8410a1008728f02084108003c6d84b00
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 8728f003c25880038a0140018c102400
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type LOAD_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 00000010000000000000001200000000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 0
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 00000841e0
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is caf18a8083f00000881000028528b018
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 8530b03f0ac880108210000084100004
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 3
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 1000144000
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 8f902001050060d08190800083908000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 050000058410a2008590800081f00000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 2
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 1000144020
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 00000000000000000000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 00000000000000000000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type LOAD_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 00000000018340008000000101834540
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 3
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 1101834000
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 2f0004808b95c00091d0202e9a100009
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 932a7007030000000f0070d082106000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type LOAD_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 00000000001220008000000000122540
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 1
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 10001225c0
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 91d0208e81f000000100000001000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 01000000010000000100000001000000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 3
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 00000831c0
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 934680000300000782106300920a4001
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 9332700881f000000100000030680009
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 2
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 1101834020
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 8e11e200832870208e11c0018e01c009
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 03000000050070d0821060008410a020
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 1
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 1101834040
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 832870208410800103000000071a0080
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 821060008610e000832870208610c001
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 1
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 1101834060
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is c6708000921020449410205596102000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 9810200003000000050070d082106000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 0
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 0000080d00
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 8e102030c4d9cb00c2d80b20c8984480
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 80a0800412680d550100000010800d93
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type LOAD_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 0000000001c340008000000101c34540
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 2
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 0000080d20
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 82102080306800170100000001000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 01000000010000000100000001000000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 2
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 0000084360
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 91d0200101000000861000058728f018
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 8730f03f0ac8c00b0700000005000130
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 3
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 0000084380
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 8610e0008410a1008728f02084108003
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is c6d84b008728f003c25880038a014001
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 3
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 00000843a0
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 8c102400caf18b8083f0000088100002
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 8528b0188530b03f0ac8801082100000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type STORE_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 0
+INFO: SPC2WBM: Request size is 8 Bytes
+INFO: SPC2WBM: Address is 1101c34020
+INFO: SPC2WBM: Data is 0000000068020000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 3
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 1101834080
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type ST_ACK
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 04000000000000000000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 8410a02883287020841080019b2b7003
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is da58800d91d0202a01000000c271e008
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type LOAD_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 1
+INFO: SPC2WBM: Request size is 8 Bytes
+INFO: SPC2WBM: Address is 1101c34028
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type LOAD_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 00000000680200000000000020000000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 1
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 1000122540
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 91d0208a81f000000100000001000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 01000000010000000100000001000000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 1
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 0000083140
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 8351c000822060018f90400082102008
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is d2f0442082102010d4f04420961ae001
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 2
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 0000083160
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 981b2001972af00a992b300283508000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 821064008590400b8348400082106004
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 2
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 0000083180
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 8398400c8393400081f0000001000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 01000000010000003068000a01000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type LOAD_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 1
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 00000000200000448000000130000440
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 1
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 00000841c0
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 8410a1008728f02084108003c6d84b00
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 8728f003c25880038a0140018c102400
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 3
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 1130000000
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 01000000010000000100000001000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 01000000010000000100000001000000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 0
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 1130000020
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 01000000010000000100000001000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 01000000010000000100000001000000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 1
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 1130000040
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 01000000010000000100000001000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 01000000010000000100000001000000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 2
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 1130000060
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 01000000010000000100000001000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 01000000010000000100000001000000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 0
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 1130000080
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 010000000100000091d0200001000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 00000000000000000000000000000000
+INFO: SPC2WBM: *** NEW REQUEST FROM SPARC CORE ***
+INFO: SPC2WBM: Valid bit is 1
+INFO: SPC2WBM: Request of Type IMISS_RQ
+INFO: SPC2WBM: Non-Cacheable bit is 0
+INFO: SPC2WBM: CPU-ID is 0
+INFO: SPC2WBM: Thread is 0
+INFO: SPC2WBM: Invalidate All is 0
+INFO: SPC2WBM: Replaced L1 Way is 1
+INFO: SPC2WBM: Request size is 1 Byte
+INFO: SPC2WBM: Address is 1000122000
+INFO: SPC2WBM: Data is 0000000000000000
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 1
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 0
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 83468000b58060010100000010bffffd
+INFO: WBM2SPC: *** RETURN PACKET TO SPARC CORE ***
+INFO: WBM2SPC: Valid bit is 1
+INFO: WBM2SPC: Return Packet of Type IFILL_RET
+INFO: WBM2SPC: L2 Miss is 0
+INFO: WBM2SPC: Error is 0
+INFO: WBM2SPC: Non-Cacheable bit is 0
+INFO: WBM2SPC: Thread is 0
+INFO: WBM2SPC: Way Valid is 0
+INFO: WBM2SPC: Replaced L2 Way is 0
+INFO: WBM2SPC: Fetch for Boot is 0
+INFO: WBM2SPC: Atomic LD/ST or 2nd IFill Packet is 1
+INFO: WBM2SPC: PFL is 0
+INFO: WBM2SPC: Data is 01000000010000000100000001000000

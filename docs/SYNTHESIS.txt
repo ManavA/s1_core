@@ -1,0 +1,33 @@
+Simply RISC S1 Core - Synthesis Environment
+===========================================
+
+The scripts to run synthesis are similar to the ones
+used for simulations, you can still use the free Icarus
+Verilog software (that will target an FPGA application)
+or a commercial Design Compiler tool from Synopsys (that
+will be used for ASIC).
+
+With Icarus you will use the "fpga" target, to do so
+just run:
+
+  build_fpga
+
+If you want to use Synopsys Design Compiler instead you
+have to use:
+
+  build_dc
+
+Please note that the commercial tools are NOT supported, and
+they will probably not work unless you fix all the required
+parameters properly (we are focusing on free software since
+we want to build up a community of developers around the S1).
+
+The results for these two kinds of scripts are in the
+directories:
+
+  run/synth/fpga/
+
+and
+
+  run/synth/dc/
+
